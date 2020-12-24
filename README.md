@@ -15,7 +15,7 @@ Instructions:
     =                                         Map2Sphere                                              =
     =                                                                                                 =
     =     This program reads in a 3D (genus-zero) surface represented by a triangular mesh and        = 
-    =     maps it conformally onto S^2	                                                              =
+    =     maps it conformally onto S^2	                                                          =
     =                                                                                                 =
     =     Usage is:                                                                                   =
     =                 Map2Sphere.exe -i INFILE -o OUTFILE                                             =
@@ -26,7 +26,7 @@ Instructions:
     =                                      3: Gauss Map initializer   4: Tutte Embedding initializer  =
     =                 -w Tutte weights --> 1: cotangent weights    2: graph lapacian                  =
     =                 -max             --> Max. no. of steps (integer), default: 2^6 = 64             =
-    =                 -stps            --> Step size, default: 0.01				                           =
+    =                 -stps            --> Step size, default: 0.01				                            =
     =                 -tol             --> Tolerance for sphericity, default: 0.001                   =
     =                                                                                                 =
     ===================================================================================================
