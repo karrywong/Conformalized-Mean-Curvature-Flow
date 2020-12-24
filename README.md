@@ -26,7 +26,7 @@ Instructions:
     =                                      3: Gauss Map initializer   4: Tutte Embedding initializer  =
     =                 -w Tutte weights --> 1: cotangent weights    2: graph lapacian                  =
     =                 -max             --> Max. no. of steps (integer), default: 2^6 = 64             =
-    =                 -stps            --> Step size, default: 0.01				                            =
+    =                 -stps            --> Step size, default: 0.01				          =
     =                 -tol             --> Tolerance for sphericity, default: 0.001                   =
     =                                                                                                 =
     ===================================================================================================
