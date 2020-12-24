@@ -1,6 +1,8 @@
 # Conformalized-Mean-Curvature-Flow
 
-These are the codes for my PhD research project on computational conformal geometry. They include my own implementation of the [conformalized mean curvature flow (cMCF)](https://arxiv.org/abs/1203.6819) using the C++ mesh data structure [OpenMesh](https://www.openmesh.org). Also, it included a new algorithm "Sphericalized cMCF" that construct homotopy of degree one maps using cMCF. For more details, please refer to the chapter two in my [dissertation](https://karrywong.github.io/files/Dissertation-compressed.pdf). 
+These are the codes for my PhD research project on computational conformal geometry. They include my own implementation of the [conformalized mean curvature flow (cMCF)](https://arxiv.org/abs/1203.6819) using the C++ mesh data structure [OpenMesh](https://www.openmesh.org). Also, it included a new algorithm "Sphericalized cMCF" that construct homotopy of degree one maps using cMCF. 
+For an overview, please refer to my [conference proceeding](https://arxiv.org/abs/2006.07392)
+For more details, please refer to the chapter two in my [dissertation](https://karrywong.github.io/files/Dissertation-compressed.pdf). 
 
 Instructions:
   1. Install mesh library [OpenMesh](https://www.openmesh.org) and numerical solver [Eigen](http://eigen.tuxfamily.org/)
