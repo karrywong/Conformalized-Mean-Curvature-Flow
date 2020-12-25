@@ -5,9 +5,11 @@ These are the codes for my PhD research project on computational conformal geome
 Instructions:
   1. Install mesh library [OpenMesh](https://www.openmesh.org) and numerical solver [Eigen](http://eigen.tuxfamily.org/)
   
-  2. Modify directory paths in **Makefile** and compile to get executable **Map2Sphere.exe**
+  2. Modify directory paths in **Makefile** and ensure correct directory paths for all *.cpp* and *.h* files from the **codes** folder
   
-  3. Run **Map2Sphere.exe** should give the instructions below, e.g. the code **Map2Sphere.exe -i input.off -o output.off -f 1** applies cMCF on the mesh (input.off) and output resulting mesh (output.off).
+  3. compile to get executable **Map2Sphere.exe**
+  
+  4. Run **Map2Sphere.exe** should give the instructions below, e.g. the code **Map2Sphere.exe -i input.off -o output.off -f 1** applies cMCF on the mesh (input.off) and output resulting mesh (output.off).
 
     ===================================================================================================
     ===================================================================================================
