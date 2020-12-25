@@ -34,6 +34,18 @@ Instructions:
     ===================================================================================================
     ===================================================================================================
 
+# Visualization Tool
+Recommend a free and open-source 3D mesh processing software **MeshLab**. <br /> Download at www.meshlab.net or source codes and binaries at https://github.com/cnr-isti-vclab/meshlab
+
+# Example
+  1. Ensure that **Map2Sphere.exe** is compiled correctly and located at the *bin* folder.
+  
+  2. Download the input mesh file *spot.off* from the **example** folder and place it in the same directory with other *.cpp* and *.h* files 
+  
+  3. Execute Code **../bin/Map2Sphere.exe -i ./spot.off -o ./test.off -stps 0.05**
+  
+  4. Visualize the input and output meshes *spot.off* and *test.off*
+
 # Copyright
 OpenMesh
 Copyright (c) 2001-2019, RWTH-Aachen University
