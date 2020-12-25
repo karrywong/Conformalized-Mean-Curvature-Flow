@@ -7,7 +7,7 @@ Instructions:
   
   2. Modify directory paths in **Makefile** and ensure correct directory paths for all *.cpp* and *.h* files from the **codes** folder
   
-  3. compile to get executable **Map2Sphere.exe**
+  3. Compile to get executable **Map2Sphere.exe**
   
   4. Run **Map2Sphere.exe** should give the instructions below, e.g. the code **Map2Sphere.exe -i input.off -o output.off -f 1** applies cMCF on the mesh (input.off) and output resulting mesh (output.off).
 
